@@ -1,0 +1,31 @@
+.bg {
+    background-image: url('https://assets.ccbp.in/frontend/react-js/random-no-generator-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "Roboto";
+    font-weight: bolder;
+}
+
+.head {
+    font-size: 64px;
+    margin-bottom: 0%;
+}
+
+.para {
+    font-size: 32px;
+}
+
+.btn {
+    border: none;
+    border-top: 2px solid aqua;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 16px;
+    
+}
